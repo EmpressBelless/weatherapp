@@ -7,7 +7,7 @@ const forecast = document.querySelector('.forecast');
 const humidity = document.querySelector('.humidity');
 
 button.addEventListener('click', function() {
-  fetch(`https:/www.api.openweathermap.org/data/2.5/weather?q=${inputValue}&appid=af08f1a87cacf44530772ac771844db9`)
+  fetch(`https:/www.api.openweathermap.org/data/2.5/weather?q=${inputValue}&appid=*****`)
 
 })
 
